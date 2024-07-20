@@ -1,0 +1,34 @@
+﻿  MainGame.cpp
+  Object.cpp
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\MainGame.cpp(6,22): warning C4244: '인수': 'ULONGLONG'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(38,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(39,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(41,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(42,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(44,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(45,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(47,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(48,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(79,37): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(79,28): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(136,28): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(137,28): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(146,44): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(147,44): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(151,31): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(152,31): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(168,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(168,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(169,46): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(169,28): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(182,61): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(182,52): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(201,65): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(201,50): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(202,24): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(210,37): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Player.cpp(210,24): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WindowsProject1.cpp
+  코드를 생성하고 있습니다...
+  WindowsProject1.vcxproj -> C:\Users\rkden\OneDrive\바탕 화면\VectorEnd\Debug\WindowsProject1.exe
